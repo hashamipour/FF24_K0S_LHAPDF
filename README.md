@@ -1,0 +1,2 @@
+# FF24_K0S_LHAPDF
+K0s_FFs_LHAPDF grids
